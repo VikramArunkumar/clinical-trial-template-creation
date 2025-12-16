@@ -1,0 +1,12 @@
+{
+  "id": "3TcvYT7ViZPZLCnUFy2lp",
+  "category": "safety_reporting",
+  "rule": "Participants must be aware of safety procedures",
+  "guidance": "Clearly explain study safety risks",
+  "severity": "medium",
+  "source": "user",
+  "addedAt": "2025-12-08T20:24:12.939Z",
+  "updatedAt": "2025-12-08T20:24:12.939Z",
+  "active": true,
+  "weight": 1
+}

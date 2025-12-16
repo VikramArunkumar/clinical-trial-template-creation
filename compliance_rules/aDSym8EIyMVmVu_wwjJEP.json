@@ -1,0 +1,12 @@
+{
+  "id": "aDSym8EIyMVmVu_wwjJEP",
+  "category": "informed_consent",
+  "rule": "Participants must understand risks",
+  "guidance": "Clearly explain study risks and benefits",
+  "severity": "high",
+  "source": "user",
+  "addedAt": "2025-12-08T01:52:30.268Z",
+  "updatedAt": "2025-12-08T01:52:30.268Z",
+  "active": true,
+  "weight": 1.5
+}

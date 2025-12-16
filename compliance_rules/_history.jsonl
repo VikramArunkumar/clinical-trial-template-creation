@@ -1,0 +1,6 @@
+{"timestamp":"2025-12-02T22:48:16.017Z","action":"add_rule","data":{"ruleId":"0QDr3NvO5-pcsz9P-GZ1z","category":"informed_consent","severity":"medium","source":"FDA"},"actor":"user"}
+{"timestamp":"2025-12-08T01:52:30.270Z","action":"add_rule","data":{"ruleId":"aDSym8EIyMVmVu_wwjJEP","category":"informed_consent","severity":"high","source":"user"},"actor":"user"}
+{"timestamp":"2025-12-08T20:24:12.942Z","action":"add_rule","data":{"ruleId":"3TcvYT7ViZPZLCnUFy2lp","category":"safety_reporting","severity":"medium","source":"user"},"actor":"user"}
+{"timestamp":"2025-12-08T21:08:28.405Z","action":"add_rule","data":{"ruleId":"SLqDwSVuf6SXbI_kbZmxE","category":"data_protection","severity":"medium","source":"user"},"actor":"user"}
+{"timestamp":"2025-12-08T22:51:57.002Z","action":"add_rule","data":{"ruleId":"jXK3Vb5gvE9Uw-2_80YXO","category":"protocol_clarity","severity":"medium","source":"user"},"actor":"user"}
+{"timestamp":"2025-12-08T23:04:22.175Z","action":"add_rule","data":{"ruleId":"zq3DtuGGbRHomqWp5xWQ_","category":"risk_mitigation","severity":"medium","source":"user"},"actor":"user"}

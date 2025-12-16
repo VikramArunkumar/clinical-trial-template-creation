@@ -1,0 +1,3 @@
+{"id":"i7PhxfNab1ust3uIOTR9e","documentId":"sample doc","timestamp":"2025-12-08T20:20:23.027Z","action":"draft","actor":"author","metadata":{"actor":"author","taskDescription":"Write a Protocol Synopsis for Phase II oncology","draftLength":2485},"checksum":"24a14cbfb90f2201"}
+{"id":"JO2wg2FUmZaBfGK9TVVbS","documentId":"sample doc","timestamp":"2025-12-08T20:21:16.798Z","action":"approve","actor":"Vikram","metadata":{"actor":"Vikram","comments":""},"checksum":"02aea0d6f4011164"}
+{"id":"cCGkACW4AUl8kAI_RQXaT","documentId":"sample doc","timestamp":"2025-12-08T20:21:39.621Z","action":"approve","actor":"Vikram","metadata":{"actor":"Vikram","comments":"Meets criteria"},"checksum":"9bdb0cc426e9188b"}

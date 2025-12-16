@@ -1,0 +1,12 @@
+{
+  "id": "SLqDwSVuf6SXbI_kbZmxE",
+  "category": "data_protection",
+  "rule": "Participant data must be compliant ",
+  "guidance": "Explain how participant data is protected",
+  "severity": "medium",
+  "source": "user",
+  "addedAt": "2025-12-08T21:08:28.403Z",
+  "updatedAt": "2025-12-08T21:08:28.403Z",
+  "active": true,
+  "weight": 1
+}

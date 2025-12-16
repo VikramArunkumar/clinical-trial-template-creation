@@ -1,0 +1,12 @@
+{
+  "id": "zq3DtuGGbRHomqWp5xWQ_",
+  "category": "risk_mitigation",
+  "rule": "Participant risk mitigation must be mentioned",
+  "guidance": "Clearly explain risk mitigation in the study",
+  "severity": "medium",
+  "source": "user",
+  "addedAt": "2025-12-08T23:04:22.039Z",
+  "updatedAt": "2025-12-08T23:04:22.039Z",
+  "active": true,
+  "weight": 1
+}

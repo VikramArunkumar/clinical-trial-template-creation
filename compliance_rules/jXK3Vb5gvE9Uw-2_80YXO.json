@@ -1,0 +1,12 @@
+{
+  "id": "jXK3Vb5gvE9Uw-2_80YXO",
+  "category": "protocol_clarity",
+  "rule": "Study Protocol must be clear ",
+  "guidance": "Clearly explain study risks and benefits",
+  "severity": "medium",
+  "source": "user",
+  "addedAt": "2025-12-08T22:51:56.981Z",
+  "updatedAt": "2025-12-08T22:51:56.981Z",
+  "active": true,
+  "weight": 1
+}

@@ -1,0 +1,17 @@
+{
+  "id": "70FhtlmOxrRseIkLYNhES",
+  "title": "Sample Guidance",
+  "content": "This guidance says informed consent must be obtained from participants.",
+  "source_type": "guideline",
+  "source_name": "ExampleOrg",
+  "document_type": "consent",
+  "version": "1.0",
+  "last_updated": "2025-12-08T22:14:35.034Z",
+  "tags": [
+    "consent",
+    "example"
+  ],
+  "metadata": {
+    "previous_version_id": "70FhtlmOxrRseIkLYNhES"
+  }
+}
